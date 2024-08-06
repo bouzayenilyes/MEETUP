@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 151.6 198.7">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-4 {
+        fill: #fff;
+        font-family: Poppins-Black, Poppins;
+        font-size: 36px;
+        font-weight: 800;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-3);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0" y1="16.48" x2="30.25" y2="16.48" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00aeef"/>
+      <stop offset="1" stop-color="#3562ae"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="1.28" y1="89.73" x2="149.79" y2="89.73" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00aeef"/>
+      <stop offset="1" stop-color="#354fa2"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="118.59" y1="16.48" x2="150.88" y2="16.48" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00aeef"/>
+      <stop offset="1" stop-color="#3662ae"/>
+    </linearGradient>
+  </defs>
+  <path class="cls-1" d="m15.14,1.38c9.1.07,15.15,5.95,15.12,14.68-.04,9.58-6.19,15.61-15.85,15.53C6.52,31.53,0,24.56,0,16.2,0,7.72,6.53,1.32,15.14,1.38Z"/>
+  <g>
+    <path class="cls-2" d="m118.72,103.94c-28.86,17.93-57.75,18.3-86.69-.15-1,.63-.44,1.76-.44,2.65-.05,9.42-.1,18.84.02,28.27.03,2.27-.43,3.08-2.85,3.03-8.25-.16-16.51-.14-24.76-.01-2.16.03-2.7-.64-2.7-2.77.06-30.05.08-60.1-.02-90.15,0-2.57.96-2.85,3.07-2.83,7.88.08,15.76.12,23.63-.11,2.57-.08,3.17,1.12,3.53,3.22,4.4,25.78,18.95,43.83,41.19,56.04,1.92,1.05,3.39,1.09,5.43.05,19.71-10.09,32.01-26.58,39.64-47.16,1.11-3.01,1.23-6.23,1.41-9.39.1-1.83.32-2.68,2.47-2.67,8.38.06,16.75-.06,25.13-.25,1.88-.04,2.42.71,2.44,2.41.03,3.95.16,7.89.17,11.84.12,25.97.15,51.95.41,77.92.03,3.3-.9,3.96-3.93,3.87-7.87-.23-15.76-.2-23.63,0-2.55.06-3.08-.78-3.04-3.19.13-8.91.07-17.82.03-26.74,0-1.22.37-2.52-.49-3.88Z"/>
+    <path class="cls-3" d="m118.59,16C118.56,6.74,125.43-.05,134.79,0c8.87.05,16.02,7.17,16.09,16.03.08,9.76-6.8,16.9-16.33,16.94-9.74.04-15.93-6.54-15.96-16.97Z"/>
+  </g>
+  <text class="cls-4" transform="translate(0 176.12)"><tspan x="0" y="0">MEET UP</tspan></text>
+</svg>
